@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Vikash Kumar!
 
-![Profile Banner](https://vikash-kumar-984.github.io/Portfolio1.0/assets/banner.png)
-
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering  
