@@ -24,7 +24,6 @@
 
 ## 📊 GitHub Stats
 
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikash-Kumar-984&show_icons=true&hide_title=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vikash-Kumar-984)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash-Kumar-984&layout=compact)
 
